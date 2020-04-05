@@ -1,6 +1,6 @@
 {
   "fileRelativePath": "src/data/config.json",
-  "title": "Neverlame",
-  "description": "Fashion blog dedicated to personal protective equipment",
-  "repositoryUrl": "https://github.com/vorcigernix/neverlame"
+  "title": "Modern Nomad",
+  "description": "Starter blog using Tina CMS with Next.js.",
+  "repositoryUrl": "https://github.com/kendallstrautman/brevifolia-next-tinacms"
 }
