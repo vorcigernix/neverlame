@@ -8,4 +8,4 @@ background_color: '#BBAEC4'
 
 * 
 
-  ## Send us email at: \[vorcigernix@gmail.com\]
+## Send us email at: vorcigernix@gmail.com
