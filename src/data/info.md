@@ -1,11 +1,11 @@
 ---
-title: info page
-background_color: '#AEC4BE'
+title: about us
+background_color: '#BBAEC4'
 ---
-## This blog was created using [TinaCMS](https://tinacms.org) & [NextJS](https://nextjs.org/) 
+## This blog was created to support a new kind of fashion and independent designers
 
-## To get started, read the TinaCMS [docs](https://tinacms.org/docs) or checkout the [repository](https://github.com/kendallstrautman/brevifolia-next-tinacms).
+## As personal protection agains viruses become ubiquitous, we want to support optimism and positivity by writing articles about interesting pieces of design we found on internet, helping you to protect yourself in less lame (pun intended) way.
 
-- ## Email: [hello@tinacms.org]
-- ## Twitter: [@tina_cms](https://twitter.com/tina_cms)
-- ## Github: [tinacms](https://github.com/tinacms/tinacms)
+* 
+
+  ## Send us email at: \[vorcigernix@gmail.com\]
